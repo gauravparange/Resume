@@ -1,0 +1,18 @@
+ria tours and travel : 2 rounds given
+Location : Chakala
+Package: 9lpa
+
+bnp paribas (From MIITS) : Hybrid (interview not given yet)
+Location : Andheri
+Package : 9lpa
+Requirement Technologies : .net Core web api + angular
+
+ICICI Lombord (From pinnacle): (interview not given yet)
+Location : Vikhroli
+Package : 9lpa 
+Requirement Technologies : .net core mvc and familirity in web api 
+
+ICICI lombord (Direct Payroll) : (interview not given yet)
+Location : Goregoan
+Package : 11 lpa
+Requirement Technologies: .Net Core + Angular 

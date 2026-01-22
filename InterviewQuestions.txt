@@ -1,0 +1,43 @@
+1) What is the difference between .Net framework and .Net Core and .Net 5.0 +?
+
+Ans: 
+.Net framework helps to build apps on windows only but .Net Core helps to build on cross platform like windows, mac, linux.
+.Net Core has better performance than .Net framework.
+.Net 5.0 is a unified version combining both the features of .Net core and .Net framework into single framework.
+
+2)What is the difference between .Net and C#?
+Ans
+.Net is a framework that is developed by microsoft that provides a large set of libraries, tools, and runtime environments to build various types of applications,
+C# is a programming language used to write code that runs on .net framework.
+
+3)Which is your most preffered language for .net and why?
+Ans. 
+C# because of its flexibilty. modern features and cross-platform capabilties. It also allow me to write clean, maintainable, and efficient code.
+
+4)What is repositary pattern?
+Ans.
+Repositary pattern helps to abstract and centralize the data access logic thus providing a clean and consistent interface for CRUD operation on models.
+
+5) What is DAL(Data Access Layer)?
+Ans.
+DAL focuses on the technical details of data access while repositary provides higher level of abstraction over DAL.
+DAL provides technical centric approach while repositaries provide Domain centric approach.
+
+DAL -- Technical Details
+Repositary -- High level abstraction over DAL
+
+
+6) Explain generic repositary pattern?
+Ans. 
+It is an extension to repositary pattern.
+
+Rather than creating separate interfaces/classes for each entity, you can just create a generic interface/class for all entities.
+
+7) What is unit of work?
+Ans.
+Unit of work helps to abstract/implement transactions in Repositary.
+8) Why do you use repositary pattern?
+
+
+
+

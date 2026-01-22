@@ -1,0 +1,32 @@
+Here are some potential interview questions for an ASP.NET Core Web API/C# developer with 2 years of experience:
+
+What is Web API and how does it work? Talk about the request/response flow in Web API.
+Explain the differences between ASP.NET Core Web API and traditional ASP.NET Web API.
+Discuss some new features added in ASP.NET Core for building RESTful services.
+What is dependency injection in ASP.NET Core? How is it useful in Web API applications? Give examples of built-in dependency injection support.
+How do you define routes and route parameters in ASP.NET Core Web API? Give an example.
+What are the main annotations used in ASP.NET Core Web API controller classes? Explain some key ones like [ApiController], [Route] etc.
+How do you handle model validation in ASP.NET Core Web API? What are validation attributes in .NET?
+What are action filters and result filters in Web API? How do you implement and use them?
+How would you implement authorization and authentication in Web API? Explain JWT token based authentication.
+How do you configure Swagger UI documentation for an ASP.NET Core Web API application? Have you customized it further?
+What is the role of appsettings.json in ASP.NET Core? How do you manage configuration?
+Explain C#/ASP.NET Core concepts like async/await, reflection, collections, LINQ etc. with examples.
+Talk about unit and integration testing framework/tools used with ASP.NET Core Web API and your experiences with testing.
+
+Here are some common interview questions for a C# developer with 2 years of experience:
+
+Explain the features of C# and .NET that attracted you to this technology.
+What is the difference between a value type and a reference type in C#? Give some examples.
+Can you explain what automatic garbage collection in C# is and how it works?
+What are the different access modifiers in C#? Explain with examples.
+What is the difference between an abstract class and interface in C#? When would you use each?
+Explain the four pillars of object oriented programming in C#. Give examples of each.
+What is an exception in C# and how do you handle exceptions?
+What are generics in C# and what are the benefits of using them?
+Can you explain delegates and events in C# including multicast delegates?
+What are some of the common collection types in C#? When would you use each type?
+Explain the different types of relationships between classes in C# like inheritance, aggregation, composition etc.
+What is the difference between synchronous and asynchronous programming in C#?
+Have you worked with LINQ in C#? What are some benefits of using it?
+How do you manage concurrency in C# when writing multithreaded applications?

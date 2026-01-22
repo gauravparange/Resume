@@ -1,0 +1,75 @@
+what is a Web API
+what are Attributes Routing?
+What is generic repositary pattern and why we use it?
+Is constructor compulsory and why?
+what is mvc explain,
+what and why we use restfull apis?
+primary key, foriegn key, unique key?
+what is stored procedure and why we use for>
+difference between in function and stored procedure?
+.net vs .net core?
+what is multiple inheritance?
+why classes do not support multiple inheritance?
+what are triggers?
+what are indexers?
+what are type of indexers?
+explain oops?
+what is ef core?
+what is code-first approach?
+
+livlong
+
+what is mvc,
+what ef core
+what is appsettings,
+4 pillars of oops,
+what is trigger and its types,
+truncate vs delete,
+what is having and group by,
+union and union all? difference
+what are the stored procedure
+how many aggregate functions?
+what is dot net and difference between c# and dot net?
+task vs thread?
+dense rank vs row rank vs row number?
+
+icici lombord
+
+ref vs out
+readonly vs const
+abstract vs interface
+what is cte
+overriding and overloading
+dependency injection and its benefits
+how to optimize query performance
+ddl vs dml
+explain you project structure
+
+euronet
+
+oops concept
+solid principle
+what is virtual keyword and why you use it
+what us storeprocedure and functions
+what is cluster index and non cluster index.
+write code for highest salary in sql
+explain your project
+what is use of constructor
+what iis in dotnet and what is the purpose of in dotnet
+what are you roles and responsabilities
+what is garbade collectio
+what is clr
+
+
+
+questions related to project and experiance?
+
+Explain your project structure?
+What is your role and responsibitlity in your project?
+What challenges do you faced?How do you tackel it?
+Why are you are changing ur organization?
+
+
+
+
+
